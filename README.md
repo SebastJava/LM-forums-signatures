@@ -20,24 +20,24 @@ Here the signatures are pictured on the two alternating background colours as fo
 
 ![](signature-gradient-v3-2X.png)
 ### signature-gradient-v3
-A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (enlarged view)
+A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
 
 ![](signature-gradient-v3-2X.png)
 ### signature-gradient-v3
-A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (enlarged view)
+A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
 
 ![](signature-gradient-v3-2X.png)
 ### signature-gradient-v3
-A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (enlarged view)
+A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
 
 ![](signature-gradient-v3-2X.png)
 ### signature-gradient-v3
-A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (enlarged view)
+A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
