@@ -7,8 +7,9 @@ A new signature for the team members and sponsors on the [forums.linuxmint.com](
 
 | Row  | Image name | Row  | Image name |
 | ------------- | ------------- | ------------- | ------------- |
-| A  | signature-gradient-v3.png  | C  | signature-dark.png             |
-| B  | signature-flat.png               | D  | signature-gray.png             |
+| A  | signature-gradient-v3.png      | C  | signature-dark.png             |
+| B  | signature-flat.png                   | D  | signature-gray.png             |
+| E  | signature-gradient-move.png | F  |  |
 
 Here the signatures are pictured on the two alternating background colours as found on the current LinuxMint forums: white and off white (`#E0EDD3`). Off course, these backgrounds could be made different on some future forum designs.
 
@@ -41,3 +42,7 @@ This is the standard logo colour, on the logo. And the background bar gets a pur
 Two parallel lines got added along the background bar to differentiate this dark bar from the shadow, otherwise it was just looking like some blurred rectangle. Those thin lines also adds some kind of retro high class spirit here. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
+
+![](signature-gradient-move-2X.png)
+### signature-gradient-move
+A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. This one is ready for some future forum design. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
