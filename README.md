@@ -5,12 +5,10 @@ A new signature for the team members and sponsors on the [forums.linuxmint.com](
 ![preview](preview.png)
 
 
-| Row  | Image name |
-| ------------- | ------------- |
-| A  | signature-gradient-v3.png  |
-| B  | signature-flat.png  |
-| C  | signature-dark.png  |
-| D  | signature-gray.png  |
+| Row  | Image name | Row  | Image name |
+| ------------- | ------------- | ------------- | ------------- |
+| A  | signature-gradient-v3.png  | C  | signature-dark.png             |
+| B  | signature-flat.png               | D  | signature-gray.png             |
 
 Here the signatures are pictured on the two alternating background colours as found on the current LinuxMint forums: white and off white (`#E0EDD3`). Off course, these backgrounds could be made different on some future forum designs.
 
