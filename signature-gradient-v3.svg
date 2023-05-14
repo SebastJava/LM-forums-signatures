@@ -31,7 +31,7 @@
      inkscape:zoom="3"
      inkscape:cx="196.5"
      inkscape:cy="29.333333"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:lockguides="true"
      showguides="false"><sodipodi:guide
        position="76.160004,20.863001"
@@ -49,7 +49,7 @@
      id="defs132"><linearGradient
        inkscape:collect="always"
        id="linearGradient2446"><stop
-         style="stop-color:#0ac386;stop-opacity:1;"
+         style="stop-color:#26c08c;stop-opacity:1;"
          offset="0.1468583"
          id="stop2442" /><stop
          style="stop-color:#9cd52a;stop-opacity:1;"
@@ -113,8 +113,8 @@
      inkscape:label="logo-bar"
      inkscape:groupmode="layer"
      id="layer1"
-     sodipodi:insensitive="true"
-     style="display:inline"><rect
+     style="display:inline"
+     sodipodi:insensitive="true"><rect
        style="fill:url(#linearGradient2448);fill-opacity:1;stroke-width:0.999998;stroke-opacity:0.25"
        id="background-bar"
        width="380"

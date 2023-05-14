@@ -29,9 +29,9 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="3.0975"
-     inkscape:cx="200"
+     inkscape:cx="200.32284"
      inkscape:cy="24.858757"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:lockguides="true"
      showguides="false"><sodipodi:guide
        position="76.160004,20.863001"
@@ -49,7 +49,7 @@
      id="defs132"><linearGradient
        inkscape:collect="always"
        id="linearGradient2446"><stop
-         style="stop-color:#0ac386;stop-opacity:1;"
+         style="stop-color:#26c08c;stop-opacity:1;"
          offset="0.1468583"
          id="stop2442" /><stop
          style="stop-color:#9cd52a;stop-opacity:1;"
