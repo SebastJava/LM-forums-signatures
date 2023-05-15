@@ -11,7 +11,7 @@ do
 		name=$(echo $member | cut -d ":" -f 1); title=$(echo $member | cut -d ":" -f 2)
 		cp $version img_host/$name-$version
 		sed -i "s/MyNameIs15Chars/$name/" img_host/$name-$version
-		sed -i "s/Moderator/$title/" img_host/$name-$version
+		sed -i "s/MyTitleIs/$title/" img_host/$name-$version
 		echo Rendering img_host/$name-$version
 		$INKSCAPE --export-type="png" img_host/$name-$version # >/dev/null
 		rm img_host/$name-$version
