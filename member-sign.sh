@@ -1,15 +1,18 @@
 #! /bin/bash
 
 INKSCAPE="/usr/bin/inkscape"
-SOURCE="signature-twotones-move.svg"
+VERSIONS="flat-move.svg flat.svg gradient-move.svg gradient-v3.svg gray.svg twotones-move.svg"
 
-for member in `cat member-list.txt`
+for version in $VERSIONS
 do
-    cp $SOURCE img_host/$member.svg
-    sed -i "s/MyNameIs15Chars/$member/" img_host/$member.svg
-    echo Rendering img_host/$member.png
-    $INKSCAPE --export-type="png" img_host/$member.svg # >/dev/null
-    rm img_host/$member.svg
+	for member in `cat member-list.txt`
+	do
+		cp $version img_host/$member-$version
+		sed -i "s/MyNameIs15Chars/$member/" img_host/$member-$version
+		echo Rendering img_host/$member-$version
+		$INKSCAPE --export-type="png" img_host/$member-$version # >/dev/null
+		rm img_host/$member-$version
+	done
 done
 
 echo; echo "All done !"; echo "Press [Enter] to close this window..."
