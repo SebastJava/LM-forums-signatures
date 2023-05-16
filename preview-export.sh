@@ -1,8 +1,8 @@
 #! /bin/bash
 INKSCAPE="/usr/bin/inkscape"
-SOURCES="flat flat-move gradient-move gradient-v3 gray twotones-move"
+SOURCES="sign-flat sign-flat-move sign-gradient-move sign-gradient-v3 sign-gray sign-twotones-move"
 
-for  src in $SOURCES
+for src in $SOURCES
 do
 	echo Rendering $src
 	$INKSCAPE --export-filename=$src.png $src.svg
