@@ -7,23 +7,17 @@ A new signature for the team members and sponsors on the [forums.linuxmint.com](
 
 | Row  | Image name | Row  | Image name |
 | -------- | ------------------- | -------- | ------------------- |
-| A  | sign-gradient-v3.png  | B  | sign-flat.png                    |
-| C  | sign-gray.png             | D  | sign-gradient-move.png  |
-| E  | sign-flat-move.png     | F  | sign-twotones-move.png |
+| A  | sign-flat.png                    | B  | sign-gray.png                             |
+| C  | sign-gradient-move.png  | D  | sign-flat-move.png                    |
+| E  | sign-flat-move-sharp.png | F  | sign-twotones-move-sharp.png |
 
 Here the signatures are pictured on the two alternating background colours as found on the current LinuxMint forums: white and off white (`#E0EDD3`). Off course, these backgrounds could be made different on some future forum designs.
 
 ------
 
-![](sign-gradient-v3-2X.png)
-### sign-gradient-v3
-A fresh new look. This colour gradient is similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the difference in hues makes the logo standout from the background bar. This one is ready for some future forum design. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
-
-------
-
 ![](sign-flat-2X.png)
 ### sign-flat
-This is the standard logo colour, on the logo. And the background bar is very similar to those bars on the current forums. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
+This is the standard logo colour, on the logo. And the background bar gets its colour value from the top-left edge of the gradient colour on the main website. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
 
@@ -43,10 +37,16 @@ A fresh new look. This colour gradient is similar to the one found on the main [
 
 ![](sign-flat-move-2X.png)
 ### sign-flat-move
-This is the standard logo colour, on the logo. And the background bar is very similar to those bars on the current forums. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
+This is the standard logo colour, on the logo. And the background bar gets its colour value from the top-left edge of the gradient colour on the main website. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
 
 ------
 
-![](sign-twotones-move-2X.png)
-### sign-twotones-move
-A fresh new look. The two  colour tones used here makes a good contrast between the logo and the background bar. The logo stands out. This one is ready for some future forum design. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
+![](sign-flat-move-sharp-2X.png)
+### sign-flat-move-sharp
+This is the standard logo colour, on the logo. And the background bar gets its colour value from the top-left edge of the gradient colour on the main website. Here there is no shadow on the background bar, giving it a sharper look. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
+
+------
+
+![](sign-twotones-move-sharp-2X.png)
+### sign-twotones-move-sharp
+A fresh new look. The two colour tones used here makes a good contrast between the logo and the background bar. The logo stands out. And the background hue sits within the colour gradient as found on the main website, somewhere near the bottom-right edge. This version is ready for some future forum design. (Enlarged view. Please choose a light GitHub theme in [settings/appearance](https://github.com/settings/appearance).)
