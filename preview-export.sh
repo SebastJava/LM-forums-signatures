@@ -1,6 +1,6 @@
 #! /bin/bash
 INKSCAPE="/usr/bin/inkscape"
-SOURCES="sign-flat sign-flat-move sign-gradient-move sign-gradient-v3 sign-gray sign-twotones-move"
+SOURCES="sign-flat sign-flat-move sign-gradient-move sign-gradient-v3 sign-gray sign-twotones-move preview"
 
 for src in $SOURCES
 do
