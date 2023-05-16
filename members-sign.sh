@@ -1,7 +1,7 @@
 #! /bin/bash
 
 INKSCAPE="/usr/bin/inkscape"
-SOURCES="sign-flat sign-flat-move sign-gradient-move sign-gradient-v3 sign-gray sign-twotones-move"
+SOURCES=$(cat sources.txt)
 MEMBERS=$(cat members-list.txt)
 
 for src in $SOURCES
