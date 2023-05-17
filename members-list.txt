@@ -1,16 +1,15 @@
 clem:ProjectLeader
-20Oscar799:Administrator
-25xenopeek:Administrator
-21JeremyB:Moderator
-22karlchen:Moderator
-22Moem:Moderator
-21Pierre:Moderator
-8RIH:Moderator
-24SMG:Moderator
-17Laurent85:Moderator
+Oscar799:Administrator
+xenopeek:Administrator
+JeremyB:Moderator
+karlchen:Moderator
+Moem:Moderator
+Pierre:Moderator
+RIH:Moderator
+SMG:Moderator
+Laurent85:Moderator
 
 exploder:Developer
-xenopeek:Developer
 Monsta:Developer
 mtwebster:Developer
 JosephM:Developer
