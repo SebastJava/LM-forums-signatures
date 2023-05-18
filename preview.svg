@@ -29,15 +29,18 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="1"
-     inkscape:cx="237.5"
-     inkscape:cy="300"
-     inkscape:current-layer="layer2" /><defs
+     inkscape:cx="373.5"
+     inkscape:cy="330"
+     inkscape:current-layer="layer1" /><defs
      id="defs132" /><g
      inkscape:label="background"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
      sodipodi:insensitive="true"><path
+       style="fill:#68c174;stroke:#cccccc;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 415,660 V 0"
+       id="path907" /><path
        style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        d="M 0,439.5 H 830"
        id="path267"
@@ -193,7 +196,7 @@
            style="fill:#ffffff;fill-opacity:1">L</tspan></text></g><g
        id="g895"
        inkscape:label="ID-letter"
-       transform="translate(-391.51135,129.98869)"><rect
+       transform="translate(-383.51135,129.98869)"><rect
          style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect889"
          width="20"
@@ -212,7 +215,7 @@
            style="fill:#ffffff;fill-opacity:1">A</tspan></text></g><g
        id="g903"
        inkscape:label="ID-letter"
-       transform="translate(-391.51135,239.98869)"><rect
+       transform="translate(-383.51135,239.98869)"><rect
          style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect897"
          width="20"
@@ -231,7 +234,7 @@
            style="fill:#ffffff;fill-opacity:1">B</tspan></text></g><g
        id="g911"
        inkscape:label="ID-letter"
-       transform="translate(-391.51135,349.98869)"><rect
+       transform="translate(-383.51135,349.98869)"><rect
          style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect905"
          width="20"
@@ -250,7 +253,7 @@
            style="fill:#ffffff;fill-opacity:1">C</tspan></text></g><g
        id="g919"
        inkscape:label="ID-letter"
-       transform="translate(-391.51135,459.98869)"><rect
+       transform="translate(-383.51135,459.98869)"><rect
          style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect913"
          width="20"
@@ -269,7 +272,7 @@
            style="fill:#ffffff;fill-opacity:1">D</tspan></text></g><g
        id="g927"
        inkscape:label="ID-letter"
-       transform="translate(-391.51135,569.98869)"><rect
+       transform="translate(-383.51135,569.98869)"><rect
          style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect921"
          width="20"
@@ -288,7 +291,7 @@
            style="fill:#ffffff;fill-opacity:1">E</tspan></text></g><g
        id="g935"
        inkscape:label="ID-letter"
-       transform="translate(-391.51135,679.98869)"><rect
+       transform="translate(-383.51135,679.98869)"><rect
          style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
          id="rect929"
          width="20"
