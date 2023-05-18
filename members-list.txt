@@ -1,6 +1,6 @@
 clem:ProjectLeader
-Oscar799:Administrator
-xenopeek:Administrator
+Oscar799:Admin
+xenopeek:Admin
 JeremyB:Moderator
 karlchen:Moderator
 Moem:Moderator
@@ -14,5 +14,16 @@ Monsta:Developer
 mtwebster:Developer
 JosephM:Developer
 
+deadguy:IRCchannel
+KittyKatt:IRCchannel
+BenNZ:IRCchannel
+Pikiwedia:IRCchannel
+zcot:IRCchannel
+orcus:IRCchannel
+mtn:IRCchannel
+djph:IRCchannel
+
 sebastjava:Design
+
 AZgl1800:Sponsor
+
