@@ -6,6 +6,7 @@ A new signature for the team members and sponsors on the [forums.linuxmint.com](
 
 ------
 
+# Presentation
 Please choose a light GitHub theme in your GitHub's [settings/appearance](https://github.com/settings/appearance) when looking at the following images.
 
 ------
@@ -55,3 +56,23 @@ Here there is no shadow on the background bar, giving it a sharper look. And the
 A fresh new look. The logo stands out. The background colour is the same as this "navbar" on LinuxMint's main website. I mean this fixed "navbar" that you get as you scroll down the page, with this `#68C174` colour.
 
 Here there is no shadow on the background bar, giving it a sharper look. And there are no left and right margins, allowing a perfect left or right alignment. (Enlarged view)
+
+------
+
+# Try it !
+
+This is not official yet. Sometime later this year, you will be invited to use a common standard signature. But there are no obligations, you can always prefer your own favourite version. Chosen from here or created on your own.
+
+Meanwhile, we are exploring different avenues. Go ahead ! Find your preferred version and try it. You can always change your mind, anytime.
+
+1. Choose your favourite version in the preview and presentations above.
+1. Find your name and version in https://github.com/SebastJava/LM-forums-signatures/tree/main/img_host
+1. Click your favourite link. Example: https://github.com/SebastJava/LM-forums-signatures/blob/main/img_host/MyNameIs-sign-twotones-move-sharp.png
+1. From there, you can click on the download icon, and then upload this image to your favourite image host.
+1. Or you could simply right-click to "Open Image in New Tab" and then go to this new tab with this raw image and copy this URL. Example: https://raw.githubusercontent.com/SebastJava/LM-forums-signatures/main/img_host/MyNameIs-sign-twotones-move-sharp.png
+1. Now go to your [User Control Panel](https://forums.linuxmint.com/ucp.php) for the LinuxMint forums. Go to Profile > Edit signature.
+1. Click on the icon to "Insert image..." and paste your image's URL.  
+1. Click on the "Preview" button to check your new signature.
+1. When satisfied, click on the "Submit" button.
+
+NOTE: This is still under development. Current versions could get modified, and new versions could be added.
