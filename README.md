@@ -61,6 +61,8 @@ Here there is no shadow on the background bar, giving it a sharper look. And the
 
 # Try it !
 
+![UCP-EditSignature-example](UCP-EditSignature.png)
+
 This is not official yet. Sometime later this year, you will be invited to use a common standard signature. But there are no obligations, you can always prefer your own favourite version. Chosen from here or created on your own.
 
 Meanwhile, we are exploring different avenues. Go ahead ! Find your preferred version and try it. You can always change your mind, anytime.
