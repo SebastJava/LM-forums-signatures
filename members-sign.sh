@@ -4,6 +4,8 @@ INKSCAPE="/usr/bin/inkscape"
 SOURCES=$(cat sources.txt)
 MEMBERS=$(cat members-list.txt)
 
+# Need spaces in the members-list ? Use non-breaking spaces ! ( )
+
 for src in $SOURCES
 do
 	for member in $MEMBERS
