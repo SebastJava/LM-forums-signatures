@@ -1,1 +1,7 @@
-sign-flat sign-flat-move sign-flat-move-sharp sign-gradient-move sign-gray sign-twotones-move-sharp
+sign-flat-move-sharp
+sign-flat-move
+sign-flat
+sign-gradient-move
+sign-gray
+sign-twotones2-move-sharp
+sign-twotones-move-sharp
