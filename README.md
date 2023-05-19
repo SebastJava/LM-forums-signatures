@@ -87,5 +87,4 @@ These images are listed by chronological order. From the first version to the la
 
 My preferred one is this **sign-twotones-move-sharp**
 
-![](sign-twotones-move-sharp-2X.png)
-(Enlarged view)
+![](sign-twotones-move-sharp.png)
