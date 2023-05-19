@@ -1,6 +1,6 @@
 clem:Project Leader
-Oscar799:Administrator
-xenopeek:Administrator
+Oscar799:Admin
+xenopeek:Admin
 JeremyB:Moderator
 karlchen:Moderator
 Moem:Moderator
@@ -27,4 +27,4 @@ sebastjava:Design
 
 AZgl1800:Sponsor
 
-MyNameIs:(example signature)
+MyNameIs:ExampleSignature
