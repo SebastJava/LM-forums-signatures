@@ -73,7 +73,7 @@ Meanwhile, we are exploring different avenues. Go ahead ! Find your preferred ve
 1. From there, you can click on the download icon, and then upload this image to your favourite image host.
 1. Or you could simply right-click to "Open Image in New Tab" and then go to this new tab with this raw image and copy this URL. Example: https://raw.githubusercontent.com/SebastJava/LM-forums-signatures/main/img_host/MyNameIs-sign-twotones-move-sharp.png
 1. Now go to your [User Control Panel](https://forums.linuxmint.com/ucp.php) for the LinuxMint forums. Go to Profile > Edit signature.
-1. Click on the icon to "Insert image..." and paste your image's URL.  
+1. Click on the icon to "Insert image..." and paste your image's URL. Example: ```[img]https://raw.githubusercontent.com/SebastJava/LM-forums-signatures/main/img_host/MyNameIs-sign-twotones-move-sharp.png[/img]```
 1. Click on the "Preview" button to check your new signature.
 1. When satisfied, click on the "Submit" button.
 
