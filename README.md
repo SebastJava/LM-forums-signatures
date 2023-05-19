@@ -85,6 +85,6 @@ NOTE: This is still under development. Current versions could get modified, and 
 
 These images are listed by chronological order. From the first version to the latest. I would recommend you scroll down these descriptions to choose one of those latest versions.
 
-My preferred one is this **sign-twotones-move-sharp**
+My preferred one is this **sign-twotones-move-sharp :**
 
 ![](sign-twotones-move-sharp.png)
