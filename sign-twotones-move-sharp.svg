@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="143.75"
+     inkscape:cx="130"
      inkscape:cy="25"
      inkscape:current-layer="layer2"
      inkscape:lockguides="true"
@@ -85,10 +85,6 @@
          inkscape:collect="always"
          stdDeviation="1.665"
          id="feGaussianBlur3765" /></filter></defs><g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="shadow"
-     style="display:inline" /><g
      inkscape:label="logo-bar"
      inkscape:groupmode="layer"
      id="layer1"
@@ -99,7 +95,7 @@
        d="m 0,14 h 394.1055 l 5.895,22 H 5.895 Z"
        sodipodi:nodetypes="ccccc" /><g
        id="logo-halo"
-       transform="rotate(-15,54.5,62.978771)"
+       transform="rotate(-15,64.499803,-12.977271)"
        inkscape:label="logo-halo"
        style="display:inline"><circle
          style="fill:#808080;fill-opacity:1;stroke:#808080;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter3763)"
@@ -128,13 +124,13 @@
      style="display:inline"><text
        xml:space="preserve"
        style="font-weight:500;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';opacity:1;fill:#808080;fill-opacity:1;stroke-opacity:0.25"
-       x="77.160004"
+       x="97.160004"
        y="29.136999"
        id="name"
        inkscape:label="name"><tspan
          sodipodi:role="line"
          id="tspan4818"
-         x="77.160004"
+         x="97.160004"
          y="29.136999"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';fill:#ffffff;fill-opacity:1">MyNameIs15Chars</tspan></text><text
        xml:space="preserve"
