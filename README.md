@@ -78,3 +78,14 @@ Meanwhile, we are exploring different avenues. Go ahead ! Find your preferred ve
 1. When satisfied, click on the "Submit" button.
 
 NOTE: This is still under development. Current versions could get modified, and new versions could be added.
+
+------
+
+# Post Scriptum
+
+These images are listed by chronological order. From the first version to the latest. I would recommend you scroll down these descriptions to choose one of those latest versions.
+
+My preferred one is this **sign-twotones-move-sharp**
+
+![](sign-twotones-move-sharp-2X.png)
+(Enlarged view)
