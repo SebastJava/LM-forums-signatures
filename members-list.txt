@@ -1,4 +1,4 @@
-clem:Project Leader
+clem:ProjectLeader
 Oscar799:Admin
 xenopeek:Admin
 JeremyB:Moderator
@@ -27,4 +27,4 @@ sebastjava:Design
 
 AZgl1800:Sponsor
 
-MyNameIs:ExampleSignature
+MyNameIs15Chars:Example
