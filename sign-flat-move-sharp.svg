@@ -90,7 +90,7 @@
      id="layer1"
      style="display:inline"><path
        id="bkgnd-bar"
-       style="opacity:1;fill:#86be43;fill-opacity:1.0;stroke:none;stroke-width:0"
+       style="opacity:1;fill:#69B53F;fill-opacity:1.0;stroke:none;stroke-width:0"
        d="M 0 14 L 8.0078125 36 L 400 36 L 391.99219 14 L 0 14 z "
        inkscape:label="bkgnd-bar" /><g
        id="logo-halo"
@@ -110,7 +110,7 @@
          r="18.5"
          inkscape:label="halo"
          transform="rotate(-5)" /><circle
-         style="fill:#86be43;fill-opacity:1.0;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#69B53F;fill-opacity:1.0;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="background-circle"
          cx="57.094692"
          cy="30.090633"
