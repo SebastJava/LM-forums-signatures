@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="3.0975"
-     inkscape:cx="171.58999"
-     inkscape:cy="24.858757"
+     inkscape:zoom="3.18"
+     inkscape:cx="191.98113"
+     inkscape:cy="24.842767"
      inkscape:current-layer="layer1"
      inkscape:lockguides="true"
      showguides="false"><sodipodi:guide
@@ -101,9 +101,9 @@
      style="display:inline"
      sodipodi:insensitive="true"><path
        id="background-bar"
-       style="fill:#69b53f;stroke-width:0.999998;stroke-opacity:0.25;fill-opacity:1"
+       style="fill:#69b53f;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        inkscape:label="background-bar"
-       d="M 10,14 H 384.105 L 390,36 H 15.895 Z"
+       d="M 10.659066,14.5 H 383.46638 l 5.87454,21 H 16.533618 Z"
        sodipodi:nodetypes="ccccc" /><g
        id="logo-halo"
        transform="rotate(-15,59.5,25)"
