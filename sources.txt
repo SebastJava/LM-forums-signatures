@@ -1,7 +1,12 @@
+sign-2lines-0
+sign-2lines-1
+sign-2lines-2
+sign-2lines-3
+sign-2lines-4
+sign-2lines-5
 sign-flat-move-sharp
 sign-flat-move
 sign-flat
 sign-gradient-move
 sign-gray
-sign-twotones2-move-sharp
 sign-twotones-move-sharp
