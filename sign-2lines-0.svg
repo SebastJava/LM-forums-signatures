@@ -7,7 +7,7 @@
    viewBox="0 0 378 48"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="sign-2lines-4.svg"
+   sodipodi:docname="sign-2lines-0.svg"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    xml:space="preserve"
    inkscape:export-filename="sign-flat-move-sharp-2X.png"
@@ -28,7 +28,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="3.3650794"
-     inkscape:cx="155.71698"
+     inkscape:cx="149.77358"
      inkscape:cy="24.070754"
      inkscape:current-layer="layer1"
      inkscape:lockguides="false"
@@ -66,20 +66,7 @@
      inkscape:label="logo-bar"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"><rect
-       style="fill:#595959;stroke-width:0;fill-opacity:1;stroke:none"
-       id="bar-fill"
-       width="378"
-       height="16.312"
-       x="0"
-       y="15.844"
-       inkscape:label="bar-fill" /><circle
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0"
-       id="circle-fill"
-       cx="189"
-       cy="24"
-       r="16"
-       inkscape:label="circle-fill" /><path
+     style="display:inline"><path
        style="color:#000000;fill:#6abf40;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none"
        d="m 178.5,14.25 v 13.5 c 0,3.295937 2.70406,6 6,6 h 9 c 3.29594,0 6,-2.704063 6,-6 v -7.5 c 0,-2.467512 -2.03249,-4.5 -4.5,-4.5 -1.15272,0 -2.20002,0.45552 -3,1.179785 C 191.20002,16.20552 190.15272,15.75 189,15.75 c -2.46751,0 -4.5,2.032489 -4.5,4.5 v 7.5 h 3 v -7.5 c 0,-0.846193 0.65381,-1.5 1.5,-1.5 0.84619,0 1.5,0.653807 1.5,1.5 v 7.5 h 3 v -7.5 c 0,-0.846193 0.65381,-1.5 1.5,-1.5 0.84619,0 1.5,0.653807 1.5,1.5 v 7.5 c 0,1.67462 -1.32538,3 -3,3 h -9 c -1.67462,0 -3,-1.32538 -3,-3 v -13.5 z"
        id="Lm-path" /><path
@@ -98,8 +85,7 @@
      inkscape:label="text"
      style="display:inline"><g
        id="text"
-       inkscape:label="text"
-       style="display:inline"><text
+       inkscape:label="text"><text
          xml:space="preserve"
          style="font-weight:500;font-size:13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';opacity:1;fill:#808080;fill-opacity:1;stroke-opacity:0.25"
          x="372.24677"
@@ -110,7 +96,7 @@
            id="tspan4818"
            x="372.24677"
            y="27.828501"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">MyTitleIs @linuxmint</tspan></text><text
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;text-anchor:end;fill:#303030;fill-opacity:1">MyTitleIs @linuxmint</tspan></text><text
          xml:space="preserve"
          style="font-style:italic;font-size:13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:none;stroke:#26c08c;stroke-width:0;stroke-dasharray:none"
          x="5.1680002"
@@ -121,4 +107,4 @@
            id="tspan403"
            x="5.1680002"
            y="27.828501"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff;fill-opacity:1;stroke:none">MyNameIs15Chars</tspan></text></g></g></svg>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#303030;fill-opacity:1;stroke:none">MyNameIs15Chars</tspan></text></g></g></svg>
