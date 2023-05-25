@@ -11,33 +11,33 @@ Please choose a light GitHub theme in your GitHub's [settings/appearance](https:
 
 ------
 
+![](sign-flat-2X.png)
+### sign-flat
+The logo and the background bar get their colour values from the top-left edge of the gradient colour on the main website. (Enlarged view)
+
+------
+
+![](sign-gray-2X.png)
+### sign-gray
+This is the standard logo colour, on the logo. And the background bar gets a pure neutral grey. The contrast is very good for the text. And here the logo stands out against the background bar. (Enlarged view)
+
+------
+
+![](sign-flat-move-2X.png)
+### sign-flat-move
+The logo and the background bar get their colour values from the top-left edge of the gradient colour on the main website. (Enlarged view)
+
+------
+
 ![](sign-gradient-move-2X.png)
 ### sign-gradient-move
 A fresh new look. This colour gradient is somewhat similar to the one found on the main [LinuxMint](https://linuxmint.com/) website. And the strong difference in hues makes the logo standout from the background bar. (Enlarged view)
 
 ------
 
-![](sign-flat-2X.png)
-### sign-flat
-This is the standard logo colour, on the logo. And the background bar gets its colour value from the top-left edge of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-gray-2X.png)
-### sign-gray
-This is the standard logo colour, on the logo. And the background bar gets a pure neutral grey. The contrast is very good for the text. And here again the logo stands out against the background bar. (Enlarged view)
-
-------
-
-![](sign-flat-move-2X.png)
-### sign-flat-move
-This is the standard logo colour, on the logo. And the background bar gets its colour value from the top-left edge of the gradient colour on the main website. (Enlarged view)
-
-------
-
 ![](sign-flat-move-sharp-2X.png)
 ### sign-flat-move-sharp
-This is the standard logo colour, on the logo. And the background bar gets this same logo colour. On previous versions those two colours were very similar, and thus it felt like some error. Here they are just both exactly the same `#86BE43`.
+The logo and the background bar get their colour values from the top-left edge of the gradient colour on the main website.
 
 Here there is no shadow on the background bar, giving it a sharper look. And there are no left and right margins, allowing a perfect left or right alignment. (Enlarged view)
 
@@ -51,11 +51,51 @@ Here there is no shadow on the background bar, giving it a sharper look. And the
 
 ------
 
-![](sign-twotones2-move-sharp-2X.png)
-### sign-twotones2-move-sharp
-A fresh new look. The logo stands out. The background colour is the same as this "navbar" on LinuxMint's main website. I mean this fixed "navbar" that you get as you scroll down the page, with this `#68C174` colour.
+![](sign-2lines-0-2X.png)
+### sign-2lines-0
+The logo is center aligned. The circle is invisible, but reveals itself by the distortion in the parallel lines.
 
-Here there is no shadow on the background bar, giving it a sharper look. And there are no left and right margins, allowing a perfect left or right alignment. (Enlarged view)
+This green color is approximately as found in the top-left edge of the gradient colour on the main website. (Enlarged view)
+
+------
+
+![](sign-2lines-1-2X.png)
+### sign-2lines-1
+The logo is center aligned. The circle is invisible, but reveals itself by the distortion in the parallel lines.
+
+This green/blue color can approximately be found somewhere in the right side of the gradient colour on the main website. (Enlarged view)
+
+------
+
+![](sign-2lines-2-2X.png)
+### sign-2lines-2
+The logo is center aligned. The name and function get highlighted with some light green color. And the logo gets a luminous white background.
+
+This green/blue color can approximately be found somewhere in the right side of the gradient colour on the main website. (Enlarged view)
+
+------
+
+![](sign-2lines-3-2X.png)
+### sign-2lines-3
+The logo is center aligned. The name and function get highlighted with some light green color. And the logo gets a luminous white background.
+
+This green color is approximately as found in the top-left edge of the gradient colour on the main website. (Enlarged view)
+
+------
+
+![](sign-2lines-4-2X.png)
+### sign-2lines-4
+The logo is center aligned. The name and function looks very "classy" with their dark grey background. And the logo gets a luminous white background.
+
+This green color is approximately as found in the top-left edge of the gradient colour on the main website. (Enlarged view)
+
+------
+
+![](sign-2lines-5-2X.png)
+### sign-2lines-5
+The logo is center aligned. The name and function looks very "classy" with their dark grey background. And the logo gets a luminous white background.
+
+This green/blue color can approximately be found somewhere in the right side of the gradient colour on the main website. (Enlarged view)
 
 ------
 
