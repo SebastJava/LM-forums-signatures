@@ -4,6 +4,14 @@ sign-2lines-2
 sign-2lines-3
 sign-2lines-4
 sign-2lines-5
+
+sign-air-0
+sign-air-1
+sign-air-2
+sign-air-3
+sign-air-4
+sign-air-5
+
 sign-flat-move-sharp
 sign-flat-move
 sign-flat

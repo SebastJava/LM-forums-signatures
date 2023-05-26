@@ -1,6 +1,6 @@
 #! /bin/bash
 INKSCAPE="/usr/bin/inkscape"
-SOURCES=$(cat sources.txt)" preview"
+SOURCES=$(cat sources.txt)" preview preview-2"
 
 for src in $SOURCES
 do
