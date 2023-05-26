@@ -99,6 +99,12 @@ This green/blue color can approximately be found somewhere in the right side of 
 
 ------
 
+![](sign-air-4-2X.png)
+### sign-air series (6 colour variations)
+This line refers to aviation. In a simplified, abstract form. (Enlarged view)
+
+------
+
 # Try it !
 
 ![UCP-EditSignature-example](UCP-EditSignature.png)
