@@ -3,6 +3,7 @@
 A new signature for the team members and sponsors on the [forums.linuxmint.com](https://forums.linuxmint.com).  
 
 ![preview](preview.png)
+![preview-2](preview-2.png)
 
 ------
 
