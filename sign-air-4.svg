@@ -7,7 +7,7 @@
    viewBox="0 0 380 48"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="sign-air-0.svg"
+   sodipodi:docname="sign-air-4.svg"
    inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
    xml:space="preserve"
    inkscape:export-filename="sign-flat-move-sharp-2X.png"
@@ -69,7 +69,7 @@
      style="display:inline"
      sodipodi:insensitive="true"><path
        id="wing"
-       style="fill:#202020;stroke-width:0;fill-opacity:1"
+       style="fill:#31c47b;stroke-width:0;fill-opacity:1"
        d="M 18,30 190,6 362,30 380,48 190,32 0,48 Z"
        sodipodi:nodetypes="ccccccc"
        inkscape:label="wing"
@@ -85,7 +85,7 @@
          r="19"
          inkscape:label="circle-outline"
          transform="matrix(8,0,0,8,-1384,-64)" /><circle
-         style="fill:#31c47b;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="background-circle"
          cx="128"
          cy="128"
