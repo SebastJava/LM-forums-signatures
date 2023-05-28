@@ -1,16 +1,9 @@
-sign-2lines-0
-sign-2lines-1
-sign-2lines-2
-sign-2lines-3
-sign-2lines-4
-sign-2lines-5
-
-sign-air-0
-sign-air-1
-sign-air-2
-sign-air-3
-sign-air-4
-sign-air-5
+sign-2lines-10
+sign-2lines-11
+sign-2lines-12
+sign-2lines-13
+sign-2lines-14
+sign-2lines-15
 
 sign-flat-move-sharp
 sign-flat-move
