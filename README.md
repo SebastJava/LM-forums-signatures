@@ -3,7 +3,6 @@
 A new signature for the team members and sponsors on the [forums.linuxmint.com](https://forums.linuxmint.com).  
 
 ![preview](preview.png)
-![preview-2](preview-2.png)
 
 ------
 
@@ -52,57 +51,9 @@ Here there is no shadow on the background bar, giving it a sharper look. And the
 
 ------
 
-![](sign-2lines-0-2X.png)
-### sign-2lines-0
-The logo is center aligned. The circle is invisible, but reveals itself by the distortion in the parallel lines.
-
-This green color is approximately as found in the top-left edge of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-2lines-1-2X.png)
-### sign-2lines-1
-The logo is center aligned. The circle is invisible, but reveals itself by the distortion in the parallel lines.
-
-This green/blue color can approximately be found somewhere in the right side of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-2lines-2-2X.png)
-### sign-2lines-2
-The logo is center aligned. The name and function get highlighted with some light green color. And the logo gets a luminous white background.
-
-This green/blue color can approximately be found somewhere in the right side of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-2lines-3-2X.png)
-### sign-2lines-3
-The logo is center aligned. The name and function get highlighted with some light green color. And the logo gets a luminous white background.
-
-This green color is approximately as found in the top-left edge of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-2lines-4-2X.png)
-### sign-2lines-4
-The logo is center aligned. The name and function looks very "classy" with their dark grey background. And the logo gets a luminous white background.
-
-This green color is approximately as found in the top-left edge of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-2lines-5-2X.png)
-### sign-2lines-5
-The logo is center aligned. The name and function looks very "classy" with their dark grey background. And the logo gets a luminous white background.
-
-This green/blue color can approximately be found somewhere in the right side of the gradient colour on the main website. (Enlarged view)
-
-------
-
-![](sign-air-4-2X.png)
-### sign-air series (6 colour variations)
-This line refers to aviation. In a simplified, abstract form. (Enlarged view)
+![](sign-2lines-10-2X.png)
+### sign-2lines series (6 color variations)
+The logo is aligned to the middle. There are two parallel lines behind. The logo outline and the parallel lines all share the same thickness and color. (Enlarged view)
 
 ------
 
