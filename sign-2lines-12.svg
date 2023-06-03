@@ -92,7 +92,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"><rect
-       style="fill:#26c08c;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#0aba7f;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
        id="bar"
        width="360"
        height="24"
@@ -119,7 +119,7 @@
          r="19"
          inkscape:label="outline-circle"
          transform="matrix(8,0,0,8,-1384,-64)" /><circle
-         style="fill:#26c08c;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#0aba7f;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none"
          id="background-circle"
          cx="128"
          cy="128"
@@ -144,7 +144,7 @@
          y="29.864"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';text-align:end;text-anchor:end;fill:#ffffff;fill-opacity:1">MyNameIs15Chars</tspan></text><text
        xml:space="preserve"
-       style="font-style:italic;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:none;stroke:#26c08c;stroke-width:0;stroke-dasharray:none"
+       style="font-style:italic;font-size:14px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Italic';fill:none;stroke:#0aba7f;stroke-width:0;stroke-dasharray:none"
        x="19.837999"
        y="29.864"
        id="title"
