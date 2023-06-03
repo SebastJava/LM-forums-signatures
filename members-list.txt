@@ -23,7 +23,7 @@ orcus:IRC channel
 mtn:IRC channel
 djph:IRC channel
 
-sebastjava:Design
+sebastjava:Designer
 
 AZgl1800:Sponsor
 
