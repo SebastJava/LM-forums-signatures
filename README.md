@@ -75,4 +75,8 @@ Meanwhile, we are exploring different avenues. Go ahead ! Find your preferred ve
 1. Click on the "Preview" button to check your new signature.
 1. When satisfied, click on the "Submit" button.
 
-NOTE: This is still under development. Current versions could get modified, and new versions could be added.
+NOTES:
+
+This is still under development. Current versions could get modified, and new versions could be added.
+
+Please check for [issues](https://github.com/SebastJava/LM-forums-signatures/issues).
