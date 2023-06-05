@@ -19,7 +19,7 @@ The logo and the background bar get their colour values from the top-left edge o
 
 ![](sign-gray-2X.png)
 ### sign-gray
-This is the standard logo colour, on the logo. And the background bar gets a pure neutral grey. The contrast is very good for the text. And here the logo stands out against the background bar. (Enlarged view)
+The logo gets its colour values from the top-left edge of the gradient colour on the main website. And the background bar gets a pure neutral grey. The contrast is very good for the text. And here the logo stands out against the background bar. (Enlarged view)
 
 ------
 
@@ -52,8 +52,10 @@ Here there is no shadow on the background bar, giving it a sharper look. And the
 ------
 
 ![](sign-2lines-10-2X.png)
-### sign-2lines series (6 color variations)
-The logo is aligned to the middle. There are two parallel lines behind. The logo outline and the parallel lines all share the same thickness and color. (Enlarged view)
+![](sign-2lines-12-2X.png)
+![](sign-2lines-14-2X.png)
+### sign-2lines series (6 variations)
+There are two parallel lines behind. The logo outline and the parallel lines all share the same thickness and color. There are different shapes and colors. (Enlarged view)
 
 ------
 
