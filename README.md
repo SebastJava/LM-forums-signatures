@@ -13,13 +13,17 @@ Please choose a light GitHub theme in your GitHub's [settings/appearance](https:
 
 ![](sign-flat-2X.png)
 ### sign-flat
-The logo and the background bar get their colour values from the top-left edge of the gradient colour on the main website. (Enlarged view)
+The logo and the background bar get their colour values from the top-left edge of the gradient colour on the main website.
+
+The design is not too different, not too significant, thus not distracting and very professional. (Enlarged view)
 
 ------
 
 ![](sign-gray-2X.png)
 ### sign-gray
-The logo gets its colour values from the top-left edge of the gradient colour on the main website. And the background bar gets a pure neutral grey. The contrast is very good for the text. And here the logo stands out against the background bar. (Enlarged view)
+The logo gets its colour values from the top-left edge of the gradient colour on the main website. And the background bar gets a grey color. The contrast is very good for the text. And here the logo stands out against the background bar.
+
+The design is not too different, not too significant, thus not distracting and very professional. (Enlarged view)
 
 ------
 
@@ -55,7 +59,10 @@ Here there is no shadow on the background bar, giving it a sharper look. And the
 ![](sign-2lines-12-2X.png)
 ![](sign-2lines-14-2X.png)
 ### sign-2lines series (6 variations)
-There are two parallel lines behind. The logo outline and the parallel lines all share the same thickness and color. There are different shapes and colors. (Enlarged view)
+There are two parallel lines behind. Thick lines, making a strong statement. These lines induce a sense of collective path. I got my inspiration from some old retro insignia in there. But at the same time, for the "K" and "L" versions, i added this idea of movement, this slant, as seen on previous versions. So it doesn't feel too static and retro. And, also, those lines aren't really there, they get revealed by their shadows, otherwise it would just be white on white. That's very modern. Those "K" and "L" versions are both classic and modern. There is a "signature" in those signatures... I mean, there is a concept in there. A discreet, simple concept. Just one simple concept, not trying to pack ten "great" ideas into a tiny signature... (Enlarged view)
+
+
+
 
 ------
 
